@@ -2,7 +2,7 @@
   {
     "name": "bad",
     "compilers": {
-        "CXX": "${workspaceFolder}/my-compiler"
+        "CXX": "${workspaceFolder}/clang-opt.sh"
     },
     "vendor": "bad"
   },

@@ -1,1 +1,1 @@
-set(CMAKE_CXX_COMPILER ${CMAKE_SOURCE_DIR}/my-compiler)
+set(CMAKE_CXX_COMPILER ${CMAKE_SOURCE_DIR}/clang-opt.sh)
