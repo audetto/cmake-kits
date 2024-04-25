@@ -1,0 +1,14 @@
+[
+  {
+    "name": "bad",
+    "compilers": {
+        "CXX": "${workspaceFolder}/my-compiler"
+    },
+    "vendor": "bad"
+  },
+  {
+    "name": "good",
+    "toolchainFile": "${workspaceFolder}/my-compiler.cmake",
+    "vendor": "good"
+  }
+]
